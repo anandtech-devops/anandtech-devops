@@ -331,23 +331,6 @@ I'm currently strengthening my knowledge in:
 - DevOps automation
 
 ---
-
-# GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anandtech-devops&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Anand Srivastava GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandtech-devops&layout=compact&hide_border=true&theme=github_dark"
-    alt="Most Used Languages"
-  />
-</p>
-
 ---
 
 # Connect With Me
