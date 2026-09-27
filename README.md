@@ -331,7 +331,6 @@ I'm currently strengthening my knowledge in:
 - DevOps automation
 
 ---
----
 
 # Connect With Me
 
