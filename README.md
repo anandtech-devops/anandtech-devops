@@ -1,7 +1,9 @@
 
 <!-- ==================== HEADER ==================== -->
 
-<div align="center">
+<p align="center">
+  <img src="./devops-banner.png" width="100%" alt="Anand Srivastava - DevOps Engineer">
+</p>
 
 # Anand Srivastava
 
